@@ -1,0 +1,16 @@
+﻿.complexWebForm {
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+
+.mainComplexDiv{
+    display:flex;
+    justify-content:flex-end;
+    margin-right: 127px;
+    margin-top:25px
+}
+
